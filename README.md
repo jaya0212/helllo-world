@@ -1,3 +1,3 @@
 # helllo-world
-this is my forst project
-my name is jaya
+this is my first project
+my name is jayan shekokar
